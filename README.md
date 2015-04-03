@@ -2,7 +2,9 @@
 
 (partially) parse TSPLIB files
 
-http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/DOC.PS
+http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/
+
+File format infomation [here](http://www.iwr.uni-heidelberg.de/groups/comopt/software/TSPLIB95/DOC.PS).
 
 	var fs = require('fs')
 	var TSPLIB = require('./tsplib');
